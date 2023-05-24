@@ -1,5 +1,4 @@
-# MLCourse
-# Word2Vec Implementation in Google Colab
+# Word2Vec Implementation in Google Colab <img src="[path/to/image.png](https://cdn-icons-png.flaticon.com/512/7017/7017557.png)" align="left" width="100" height="100">
 
 This repository demonstrates how to implement Word2Vec using the Gensim library in Python within Google Colab. We'll train a Word2Vec model on a simple corpus, load pre-trained models, and use them to find similar words and perform analogy reasoning tasks.
 
