@@ -16,6 +16,7 @@ This repository demonstrates how to implement Word2Vec using the Gensim library 
 
 4. Execute the code cells in the Google Colab notebook to train the model, load pre-trained models, and perform word similarity and analogy reasoning tasks.
 
+- [Understanding Word Vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469#file-understanding-word-vectors-ipynb): A tutorial on word vectors.
 
 
 
